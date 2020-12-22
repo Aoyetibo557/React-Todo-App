@@ -1,0 +1,45 @@
+.todo__row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4px auto;
+    color: #fff;
+    padding: 16px;
+    border-radius: 5px;
+    width: 90%;
+    background: linear-gradient(
+        90deg,
+        rgba(255, 118, 20, 1) 0%,
+        rgba(255, 84, 17, 1) 100%
+    );
+}
+
+.todo__row:nth-child(4n + 1){
+     background: linear-gradient(
+        90deg,
+        rgba(255, 12, 241, 1) 0%,
+        rgba(250, 0, 135, 1) 100%
+    );
+}
+
+.todo__row:nth-child(4n + 3){
+    background: linear-gradient(
+        90deg,
+        rgba(20, 150, 255, 1) 0%,
+        rgba(17, 122, 255, 1) 100%
+    );
+
+}
+.icons{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+.delete__icon{
+    margin-right: 5px;
+    color:#fff;
+}
+.edit__icon{
+    color: #fff;
+}
