@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `view app` 
 
-### `https://reactbuildpack-todo-app.herokuapp.com/`
+# https://reactbuildpack-todo-app.herokuapp.com/
 
 ### `npm test`
 
