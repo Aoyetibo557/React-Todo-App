@@ -43,7 +43,7 @@ function TodoList() {
 
 
     return (
-        <div>
+        <div className="todolist">
             <h2>What's Your Plan for Today</h2>
             <TodoForm onSubmit={addTodo} />
             <Todo 
