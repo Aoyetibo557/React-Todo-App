@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `view app` 
 
-Check out the deployed version of the [Todo app] (https://reactbuildpack-todo-app.herokuapp.com/)
+Check out the deployed version of the  [https://reactbuildpack-todo-app.herokuapp.com/](Todo App)
 
 ### `npm test`
 
