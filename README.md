@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `view app` 
 
-Check out the deployed version of the  [https://todo-beta-eosin.vercel.app/](Todo App)
+Check out the deployed version of the [Todo App] (https://todo-beta-eosin.vercel.app/)
 
 ### `npm test`
 
